@@ -1,0 +1,22 @@
+.Texts{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+}
+
+.label-text{
+    color: #1B6C92;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.text-option{
+
+    background: #FFFFFF;
+    color: #333333;
+    padding: 8px 12px;
+    margin: 5px 10px 0px 0px;
+}
+
+.text-option:hover{
+    border: 1px solid blue;
+}

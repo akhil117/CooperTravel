@@ -1,0 +1,10 @@
+.heading{
+   width: 100%;
+
+   align-items: center;
+    box-shadow: 0 3px 4px -6px black;
+}
+h1{
+    font-family: 'Lato', sans-serif;
+    color: #1b6c92;
+}

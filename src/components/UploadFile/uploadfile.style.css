@@ -1,0 +1,43 @@
+.Direction{
+    
+    display: flex;
+    margin-right: 20px;
+    
+}
+.Texts{
+    display: flex;
+    flex-direction: column;
+}
+
+.label-text{
+    color: #1B6C92;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    border-radius:50px;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: -30px;
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+.text-options{
+
+    background: #FFFFFF;
+    color: #333333;
+    padding: 8px 12px;
+    margin: 5px 0px 0px 0px;
+}
+
+.text-option:hover{
+    border: 1px solid blue;
+}
+
+

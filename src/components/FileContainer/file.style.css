@@ -1,0 +1,19 @@
+.Card{
+    margin-left: 10px;
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-around;
+    background-color: #FFF;
+    align-items: center;
+    width: 10%;
+    height: 29px;
+    border: 1px solid #3333336b;
+    border-radius: 5px;
+}
+
+.AttachText{
+  font-family: 'Lato' sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 12px;
+}
